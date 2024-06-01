@@ -5,7 +5,7 @@ from models.amenity import Amenity
 
 
 class TestAmenity(TestBaseModel):
-    """ Test for amenity"""
+    """ Test for amenity!"""
 
     def __init__(self, *args, **kwargs):
         """ """
